@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "vite": "^5.1.6"
   }
 }
